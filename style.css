@@ -1,0 +1,22 @@
+        body {
+          background-image: url('https://e0.pxfuel.com/wallpapers/671/155/desktop-wallpaper-purple-sunrise-vaporwave-1440p-resolution-artist-and-background-2560x1440-cool.jpg');
+          background-size: 100% 100%;
+        }
+        .dinuka {
+            color: rgb(255, 255, 255);
+            font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            font-size: 150%;
+            margin: 5em auto;
+            padding: 0.1%;
+            background-color: black;
+            box-shadow: 2px 3px 7px 2px rgba(0,0,0,0.02);
+        }
+        .path {
+            color: gold;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            font-size: 150%;
+            background-color: black;
+            margin: 20%;
+        }
+
+        
