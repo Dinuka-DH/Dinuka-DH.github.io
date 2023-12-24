@@ -1,5 +1,7 @@
 <h1> Website <h1>
 
-<p style="color: red:"> Link is www.Dinuka-DH.github.io
+ <a href="https://Dinuka-DH.github.io"> <img src="newl.jpg"> </a>
 
-<img src="newl.png">
+ Link is https://Dinuka-DH.github.io
+
+
